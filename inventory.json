@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1 2 3",
+        "name": "pen notbook stapler ",
+        "quantity": 20,
+        "price": 20.0
+    },
+    {
+        "id": "1",
+        "name": "pen",
+        "quantity": 47,
+        "price": 10.0
+    }
+]
